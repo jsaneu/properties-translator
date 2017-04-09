@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "yandex.key",
+    "type": "java.lang.String",
+    "description": "Your Yandex API Key"
+  },
+  {
+    "name": "yandex.url",
+    "type": "java.lang.String",
+    "description": "Yandex server URL. Usefull for cases in wich a reverse proxy is involved"
+  }
+]}
